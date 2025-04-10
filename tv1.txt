@@ -1,0 +1,489 @@
+﻿#EXTINF:-1 group-title="Standart" tvg-id="76674" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ARD_logo.png" ,Das Erste
+https://strm.hdtvizlecanli.com/live/ard1.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76627" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png" ,ZDF
+https://strm.hdtvizlecanli.com/live/ard1.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76740" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/512px-RTL_Logo_2021.svg.png" ,RTL
+https://s6.hopslan.com/rtlX11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76664" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/640px-Neues_Sat._1_Logo_transparent.png" ,Sat.1
+https://strm.hdtvizlecanli.com/live/sat1.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76762" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/600px-ProSieben_Logo_2015.svg.png" ,ProSieben
+https://strm.hdtvizlecanli.com/live/pro7.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76755" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/rtl-zwei-de.png?raw=true" ,RTL2
+https://s6.hopslan.com/rtl2X/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76704" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/70/Vox_Logo.svg/1073px-Vox_Logo.svg.png?20090503084621" ,VOX
+https://strm.hdtvizlecanli.com/live/vox.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76692" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/DMAX.svg/211px-DMAX.svg.png" ,DMAX
+https://strm.hdtvizlecanli.com/live/dmax.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76792" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/800px-Kabel_eins_Logo_2015.svg.png" ,Kabel 1
+https://strm.hdtvizlecanli.com/live/kabel1.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76708" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tele_5_Logo_2021.svg/375px-Tele_5_Logo_2021.svg.png" ,Tele 5
+https://strm.hdtvizlecanli.com/live/tele5.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76702" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/651px-ProSieben_MAXX_Logo.svg.png" ,Pro 7 MAXX
+https://s6.hopslan.com/pro7maxxX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76787" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/494px-RTL_Nitro_logo.svg.png" ,RTL Nitro
+https://strm.hdtvizlecanli.com/live/nitro.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76742" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/300px-Comedy_Central_2018.svg.png" ,Comedy Central
+https://strm.hdtvizlecanli.com/live/comedy.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76716" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sat-1-gold-de.png?raw=true" ,SAT.1 GOLD
+https://strm.hdtvizlecanli.com/live/sat1gold.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76699" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/450px-TLC_Logo.svg.png" ,TLC
+https://strm.hdtvizlecanli.com/live/tlc.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76614" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/813px-Sixx_Logo.svg.png" ,SIXX
+https://strm.hdtvizlecanli.com/live/six.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76715" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/800px-Kabel_eins_Doku_Logo_2016.svg.png" ,Kabel Eins Doku
+https://strm.hdtvizlecanli.com/live/kabel1doku.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76718" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/450px-ZDFinfo_2011.svg.png" ,ZDF info
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/ce4a32415b73f1569daa03b8b5f516fe/3/3.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76739" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/445px-ZDFneo2017_Logo.svg.png" ,ZDF neo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76767" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Super_RTL_Logo_orange_2019.svg/640px-Super_RTL_Logo_orange_2019.svg.png" ,Super RTL
+https://strm.hdtvizlecanli.com/live/superrtl.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76786" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/300px-2019_Disney_Channel_logo.svg.png" ,Disney Channel
+https://s6.hopslan.com/disneyX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76680" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/300px-Kika_2012.svg.png" ,KiKA
+https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master-1080p-5000.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76648" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HR_Dachmarke_2023.svg/640px-HR_Dachmarke_2023.svg.png" ,HR
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master-1080p-5000.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76693" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/Alternativlogos/swr%20hd.png?raw=true" ,SWR
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master-1080p-5000.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76748" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/ndr%20fernsehen.png?raw=true" ,NDR
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76730" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/mdr%20sachsen-anhalt.png?raw=true" ,MDR Sachsen Anhalt
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76684" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/wdr.png?raw=true" ,WDR
+https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76712" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Logo_Bayerischer_Rundfunk.svg/255px-Logo_Bayerischer_Rundfunk.svg.png" ,BR
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76693" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/sr%20fernsehen.png?raw=true" ,SR
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76751" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/rbb%20berlin.png?raw=true" ,RBB
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76795" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Welt_TV_Alternative_Logo_2016.png/640px-Welt_TV_Alternative_Logo_2016.png" ,Welt
+https://welt.personalstream.tv/v1/master.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76696" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Tagesschau24_Cornerlogo.png" ,ARD Tagesschau 24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76682" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/775px-3sat-Logo.svg.png" ,3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76641" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/341px-Arte-Logo.svg.png" ,arte
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76649" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Phoenix-Logo.svg/744px-Phoenix-Logo.svg.png" ,PHOENIX
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76625" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_Welt_der_Wunder_neu.svg/656px-Logo_Welt_der_Wunder_neu.svg.png" ,Welt der Wunder
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76780" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/673px-MTV-Logo.svg.png" ,MTV
+https://s4.hopslan.com/mtvX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76809" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/DELUXE_MUSIC_Logo_2019.png/520px-DELUXE_MUSIC_Logo_2019.png" ,Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76803" tvg-name="Schlager_Deluxe" tvg-logo="https://kodi-unlimited-support.de/iptv/picons/schlagerdeluxe.png" ,Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76659" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sport-1-Logo%2C_2013.svg/1200px-Sport-1-Logo%2C_2013.svg.png" ,Sport 1
+https://streaming-s1free.sport1.de/s88-qFXlbAJqKUsyVTnJgQ==,1744160624/ls-45420-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76640" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/N-tv-Logo.svg/744px-N-tv-Logo.svg.png" ,n-tv
+https://strm.hdtvizlecanli.com/live/ntv.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="379181" tvg-logo="https://kodi-unlimited-support.de/iptv/picons/dokusat.png" ,Dokusat HD
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="BILD.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BILD_TV_Logo_2021.svg/640px-BILD_TV_Logo_2021.svg.png" ,Bild TV
+https://bild.personalstream.tv/v1/master.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76617" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logo_ARD-alpha.svg/533px-Logo_ARD-alpha.svg.png" ,ARD alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="182674" tvg-name="DF1_HD" tvg-logo="https://kodi-unlimited-support.de/iptv/picons/df1hd.png" ,DF1 HD
+https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index_2.m3u8
+
+#EXTINF:-1 group-title="vavoo" tvg-id="76759" tvg-name="76759" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/animal%20planet.png?raw=true" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2440347370.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/HGTV_logo.svg/450px-HGTV_logo.svg.png" ,Home & Garden TV
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2332307823.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76722" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/rtl-up-de.png?raw=true" group-title="Germany" http-user-agent="VAVOO/1.0" http-referrer="https://vavoo.to/",RTLUP
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1708287350.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76796" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/77/Voxup_Logo_2019.svg/1199px-Voxup_Logo_2019.svg.png?20211014192650" ,VOX up
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/376397075.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76749" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ProSieben_FUN_Logo_2021.svg/600px-ProSieben_FUN_Logo_2021.svg.png" ,ProSieben FUN
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3999710514.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76764" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/209px-Syfy.svg.png" ,Syfy
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1680063305.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76766" tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/d3/13th_Street_HD_Logo_2020.png" ,13th Street
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3854738303.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76700" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTL_Crime_Logo_2021_stacked.svg/502px-RTL_Crime_Logo_2021_stacked.svg.png" ,RTL Crime
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3323550976.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76673" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/RTL_Living_Logo_2021_stacked.svg/502px-RTL_Living_Logo_2021_stacked.svg.png" ,RTL Living
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/196189662.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76804" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/RTL_Passion_Logo_2021_stacked.svg/502px-RTL_Passion_Logo_2021_stacked.svg.png" ,RTL Passion
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3131644541.m3u8
+
+#EXTINF:-1 group-title="vavoo" tvg-id="76769" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/SAT.1_emotions_Logo_2019.png/640px-SAT.1_emotions_Logo_2019.png" ,Sat.1 emotions
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2454124205.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76725" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kabel_Eins_Classics_2021.svg/798px-Kabel_Eins_Classics_2021.svg.png" ,Kabel 1 Classics
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/648723164.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="10620" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Documentaries_Logo_2020.png/1200px-Sky_Documentaries_Logo_2020.png" ,Sky documentaries
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2091375723.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76636" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/N24Doku.png/800px-N24Doku.png" ,N24 Doku
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3084650651.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76686" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/512px-Discovery_Channel_-_Logo_2019.svg.png" ,Discovery
+https://izle.canlitvapp.com/disco/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76800" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Geo_Television_Logo_2014.svg/200px-Geo_Television_Logo_2014.svg.png" ,Geo HD
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2916930910.m3u8
+#EXTINF:-1 group-title="Standart" tvg-id="76634" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/571px-History_Logo.svg.png" ,History
+https://izle.canlitvapp.com/hist/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76783" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/100px-National_Geographic_Wild_logo.svg.png" ,Nat Geo Wild
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2660473561.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76628" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/199px-National-Geographic-Logo.svg.png" ,Nat Geo
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2169389937.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76667" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/4/48/Crime_%2B_Investigation_HD_Logo_10.2019.png/800px-Crime_%2B_Investigation_HD_Logo_10.2019.png?20210917015955" ,Crime + Investigation
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1346022487.m3u8
+
+#EXTINF:-1 group-title="vavoo" tvg-id="10640" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sky_Nature.svg/768px-Sky_Nature.svg.png" ,Sky nature
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1699811246.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76738" tvg-logo="https://github.com/3PO/Senderlogos/blob/master/ard-test-1.png?raw=true" ,ARD one
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3269507991.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76789" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logo_of_Toggo_Plus.png" ,Toggo plus
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3675357538.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76622" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/1407.png" ,Nick Jr.
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3003713791.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Nick/CC+1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/800px-Nickelodeon_2023_logo_%28outline%29.svg.png" ,Nickelodeon
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3316874696.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76736" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/705px-Nicktoons_2023_Outlined_Logo.png" ,NickToons
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3843525510.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/640px-Cartoonito_-_Logo_2021.svg.png" ,Cartoonito
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/1249508039.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76763" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1032.png" ,Cartoon Network
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/553970234.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76683" tvg-logo="https://m.media-amazon.com/images/I/710JRrNs0GL.png" ,Fix & Foxi
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3567855153.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76626" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/ServusTV_Logo.svg/450px-ServusTV_Logo.svg.png" ,Servus TV
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2072482019.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76679" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Warner_TV_Comedy_Logo.png" ,WarnerTV Comedy
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3830483196.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76645" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/WarnerTV_Film_Logo_2021.svg/800px-WarnerTV_Film_Logo_2021.svg.png" ,WarnerTV Film
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/2112272618.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76806" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WarnerTV_Serie_Logo_2021.svg/800px-WarnerTV_Serie_Logo_2021.svg.png" ,WarnerTV Serie
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+#KODIPROP:http-user-agent=VAVOO/1.0
+#KODIPROP:http-referrer=https://vavoo.to/
+#EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to/"}
+https://joaquinito02.es/vavoo/3989417093.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: ANIXE Serie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/ANIXE_HD_SERIE_Logo_2016.svg/800px-ANIXE_HD_SERIE_Logo_2016.svg.png" ,Anixe Serie
+plugin://plugin.video.vavooto/?name=ANIXE+SERIE
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: AXN White" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/AXN_White_Logo.png/800px-AXN_White_Logo.png" ,AXN White
+plugin://plugin.video.vavooto/?name=AXN+WHITE
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: AXN Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/AXN_Black_Logo.png" ,AXN Black
+plugin://plugin.video.vavooto/?name=AXN+BLACK
+#EXTINF:-1 group-title="vavoo" tvg-id="Silverline.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Silverline_Movie_Channel_Logo_2015.PNG/1199px-Silverline_Movie_Channel_Logo_2015.PNG" ,Silverline
+plugin://plugin.video.vavooto/?name=SILVERLINE
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Atlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky_Atlantic_Logo_2015.svg/900px-Sky_Atlantic_Logo_2015.svg.png" ,Sky Atlantic
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/J6ZOm5bIlid9Q7uuNx3Sgfh6hMydkJ7Xl7jBDgm5_SQUtIAy-frvK9TR1zTfW5Zl383wJKkptYoee6AerdwHKau35qdVi4xiyahL8yedgCShW3NHy3KYKV5HKN84VthpFbKwQIiA23PWF70ciueyeg0HEaz5Fdl4GWh7DOLZc9KGeEhODLRluFFMSiXmC9eI/hls/index.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="76669" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/768px-Sky_Cinema_Action_-_Logo_2021.svg.png" ,Sky Cinema Action
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/NgU18GwIuCtaqo93amSVj3qdUQA-7NGS2yXNcrKjk7bdoPQhimH2SauKG2vV2MJsoCT-694XEjuShgLdIjtPt-99voTrARUSyeNTNPXi7ZbYkQjwU1FcxXW8xUZXec2qrWE2bGo7JT_JhnEJi1afMV10eV7taSdmnzQtl2AhaIM/hls/index.m3u8
+#EXTINF:-1 group-title="vavoo" tvg-id="321554" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Sky_Cinema_Highlights_Logo_2024.svg/768px-Sky_Cinema_Highlights_Logo_2024.svg.png" ,Sky Cinema Highlights
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Cinema Classics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sky_Cinema_Classics_DE_Logo_2020.svg/768px-Sky_Cinema_Classics_DE_Logo_2020.svg.png" ,Sky Cinema Classics
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
+#EXTINF:-1 group-title="vavoo" tvg-id="10650" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/768px-Sky_Cinema_Family_-_Logo_2021.svg.png" ,Sky Cinema Family
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sky_Crime_DE_Logo_2021.svg/768px-Sky_Crime_DE_Logo_2021.svg.png" ,Sky crime
+plugin://plugin.video.vavooto/?name=SKY+CRIME
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Krimi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Krimi_2020.svg/768px-Sky_Krimi_2020.svg.png" ,Sky krimi
+plugin://plugin.video.vavooto/?name=SKY+KRIMI
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky One" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/8/8a/Sky_One_Logo_June_2020.svg/450px-Sky_One_Logo_June_2020.svg.png" ,Sky one
+plugin://plugin.video.vavooto/?name=SKY+1
+#EXTINF:-1 group-title="vavoo" tvg-id="10635" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Sky_Replay_logo_2020.svg/768px-Sky_Replay_logo_2020.svg.png?20231125051026" ,Sky replay
+plugin://plugin.video.vavooto/?name=SKY+REPLAY
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Universal_TV_2018.svg/1200px-Universal_TV_2018.svg.png" ,Universal Channel
+plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Kinowelt" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/3/3d/Kinowelt-Logo.svg/800px-Kinowelt-Logo.svg.png?20090303171803" ,Kinowelt
+plugin://plugin.video.vavooto/?name=KINOWELT
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Heimatkanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Heimatkanal_Logo_2015.svg/512px-Heimatkanal_Logo_2015.svg.png" ,Heimatkanal
+plugin://plugin.video.vavooto/?name=HEIMATKANAL
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png" ,Eurosport 1
+plugin://plugin.video.vavooto/?name=EUROSPORT+1
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/800px-Eurosport_2_Logo_2015.svg.png" ,Eurosport 2
+plugin://plugin.video.vavooto/?name=EUROSPORT+2
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: SPORTDIGITAL FUSSBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/800px-Sport-Digital.svg.png" ,Sport digital
+plugin://plugin.video.vavooto/?name=SPORTDIGITALL+FUSSBALL
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Auto Motor und Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Auto_motor_sport_channel_logo.png/800px-Auto_motor_sport_channel_logo.png" ,Auto Motor Sport
+plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: RTL+ Sport Event 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png" ,RTL+ Sport 1 (Live)
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+1
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: RTL+ Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png" ,RTL+ Sport 2 (Live)
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+2
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: RTL+ Sport Event 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png" ,RTL+ Sport 3 (Live)
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+3
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: RTL+ Sport Event 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png" ,RTL+ Sport 4 (Live)
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+4
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: RTL+ Sport Event 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png" ,RTL+ Sport 5 (Live)
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+5
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: RTL+ Sport Event 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png" ,RTL+ Sport 6 (Live)
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+6
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: RTL+ Sport Event 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png" ,RTL+ Sport 7 (Live)
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+7
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: RTL+ Sport Event 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png" ,RTL+ Sport 8 (Live)
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+8
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: RTL+ Sport Event 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/768px-RTL%2B_Logo_2021.svg.png" ,RTL+ Sport 9 (Live)
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+9
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Amazon Prime Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRABkiNk7YuIdJU3ypZq4zR8UXe3zwDlFoV1g&s" ,Amazon Prime Sport (Live)
+plugin://plugin.video.vavooto/?name=AMAZON PRIME
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Magenta Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png" ,Magenta Sport 1 (Live)
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Magenta Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png" ,Magenta Sport 2 (Live)
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+2
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Magenta Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png" ,Magenta Sport 3 (Live)
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+3
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Magenta Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png" ,Magenta Sport 4 (Live)
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+4
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Magenta Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png" ,Magenta Sport 5 (Live)
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+5
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Magenta Sport 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png" ,Magenta Sport 6 (Live)
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+6
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Magenta Sport 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png" ,Magenta Sport 7 (Live)
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+7
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Magenta Sport 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png" ,Magenta Sport 8 (Live)
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+8
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Magenta Sport 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png" ,Magenta Sport 9 (Live)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+9
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Magenta Sport 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Magenta_Sport_Logo_2022.svg/927px-Magenta_Sport_Logo_2022.svg.png" ,Magenta Sport 10 (Live)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+10
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Sport News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_Sport_News_DE_Logo_2020.svg/768px-Sky_Sport_News_DE_Logo_2020.svg.png" ,Sky Sport News
+plugin://plugin.video.vavooto/?name=SKY SPORT NEWS
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Sport Mix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/768px-Sky_Sport_Mix_Logo_2022.svg.png" ,Sky Sport Mix
+plugin://plugin.video.vavooto/?name=SKY SPORT MIX
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Sport F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/768px-Sky_Sport_F1_-_Logo_2020.svg.png" ,Sky Sport Formel 1
+plugin://plugin.video.vavooto/?name=SKY SPORT F1
+#EXTINF:-1 group-title="vavoo" tvg-id="10645" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/768px-Sky_Sport_Golf_Logo_2022.svg.png" ,Sky Sport Golf
+plugin://plugin.video.vavooto/?name=SKY SPORT GOLF
+#EXTINF:-1 group-title="vavoo" tvg-id="10634" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/768px-Sky_Sport_Tennis.svg.png" ,Sky Sport Tennis
+plugin://plugin.video.vavooto/?name=SKY+SPORT+TENNIS+%5BLIVE+DURING+EVENTS+ONLY%5D
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Sport Premier League" tvg-logo="https://kodi-unlimited-support.de/iptv/picons/skysportpremierleague.png" ,Sky Sport Premier League
+plugin://plugin.video.vavooto/?name=SKY SPORT PREMIER LEAGUE
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/de/c/c5/Sky_Sport_1_HD_-_Logo_2020.png?20200926195853" ,Sky Sport 1
+plugin://plugin.video.vavooto/?name=SKY+SPORT+1+%5BLIVE+DURING+EVENTS+ONLY%5D
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/ab/Sky_Sport_2_HD_-_Logo_2020.png?20200926195653" ,Sky Sport 2 (Live)
+plugin://plugin.video.vavooto/?name=SKY SPORT 2
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/de/1/1d/Sky_Sport_3_HD_-_Logo_2020.png?20200926195627" ,Sky Sport 3
+plugin://plugin.video.vavooto/?name=SKY SPORT 3
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/2a/Sky_Sport_4_HD_Logo_2020.png?20200926195548" ,Sky Sport 4
+plugin://plugin.video.vavooto/?name=SKY SPORT 4
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/de/5/58/Sky_Sport_5_HD_Logo_2020.png?20200926195517" ,Sky Sport 5
+plugin://plugin.video.vavooto/?name=SKY SPORT 5
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Sport 6" tvg-logo="https://upload.wikimedia.org/wikipedia/de/7/70/Sky_Sport_6_HD_Logo_2020.png?20200926195445" ,Sky Sport 6
+plugin://plugin.video.vavooto/?name=SKY SPORT 6
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Sport 7" tvg-logo="https://upload.wikimedia.org/wikipedia/de/0/04/Sky_Sport_7_HD_Logo_2020.png?20200926195411" ,Sky Sport 7
+plugin://plugin.video.vavooto/?name=SKY SPORT 7
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Sport 8" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/a9/Sky_Sport_8_HD_Logo_2020.png?20200926195247" ,Sky Sport 8
+plugin://plugin.video.vavooto/?name=SKY SPORT 8
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Sport 9" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/a1/Sky_Sport_9_HD_Logo_2020.png?20200926195335" ,Sky Sport 9
+plugin://plugin.video.vavooto/?name=SKY SPORT 9
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Sport 10" tvg-logo="https://upload.wikimedia.org/wikipedia/de/c/ca/Sky_Sport_10_HD_Logo_2020.png?20200926195153" ,Sky Sport 10
+plugin://plugin.video.vavooto/?name=SKY SPORT 10
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Bundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Sky_Sport_Bundesliga_2020.svg/768px-Sky_Sport_Bundesliga_2020.svg.png?20201029143809" ,Sky Bundesliga
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Bundesliga 1" tvg-logo="https://kodi-unlimited-support.de/iptv/picons/skysportbundesliga1.png" ,Sky Bundesliga 1
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+1
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Bundesliga 2" tvg-logo="https://upload.wikimedia.org/wikipedia/de/8/86/Sky_Sport_Bundesliga_2_Logo_2020.png?20210404161259" ,Sky Bundesliga 2
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+2
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Bundesliga 3" tvg-logo="https://upload.wikimedia.org/wikipedia/de/d/de/Sky_Sport_Bundesliga_3_Logo_2020.png?20210404161325" ,Sky Bundesliga 3
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+3
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Bundesliga 4" tvg-logo="https://upload.wikimedia.org/wikipedia/de/f/f6/Sky_Sport_Bundesliga_4_Logo_2020.png?20210404161404" ,Sky Bundesliga 4
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+4
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Bundesliga 5" tvg-logo="https://upload.wikimedia.org/wikipedia/de/c/cd/Sky_Sport_Bundesliga_5_Logo_2020.png?20210404161435" ,Sky Bundesliga 5
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+5
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Bundesliga 6" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/ad/Sky_Sport_Bundesliga_6_Logo_2020.png?20210404162001" ,Sky Bundesliga 6
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+6
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Bundesliga 7" tvg-logo="https://upload.wikimedia.org/wikipedia/de/e/eb/Sky_Sport_Bundesliga_7_Logo_2020.png?20210404162024" ,Sky Bundesliga 7
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+7
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Bundesliga 8" tvg-logo="https://upload.wikimedia.org/wikipedia/de/4/4f/Sky_Sport_Bundesliga_8_Logo_2020.png?20210404162049" ,Sky Bundesliga 8
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+8
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Bundesliga 9" tvg-logo="https://upload.wikimedia.org/wikipedia/de/7/70/Sky_Sport_Bundesliga_9_Logo_2020.png?20210404162116" ,Sky Bundesliga 9
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+9
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: Sky Bundesliga 10" tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/22/Sky_Sport_Bundesliga_10_Logo_2020.png?20210404162140" ,Sky Bundesliga 10
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+10
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZN1.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/662px-DAZN_1.svg.png" ,DAZN 1
+plugin://plugin.video.vavooto/?name=DAZN+1
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZN2.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/662px-DAZN_2.svg.png" ,DAZN 2
+plugin://plugin.video.vavooto/?name=DAZN+2
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZN3.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/640px-DAZN_3.svg.png" ,DAZN 3
+plugin://plugin.video.vavooto/?name=DAZN+3
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZN4.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/DAZN_4.png" ,DAZN 4
+plugin://plugin.video.vavooto/?name=DAZN+4
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZN5.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/DAZN_5.png" ,DAZN 5
+plugin://plugin.video.vavooto/?name=DAZN+5
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZN6.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/DAZN_6.png" ,DAZN 6
+plugin://plugin.video.vavooto/?name=DAZN+6
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZN7.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png" ,DAZN 7
+plugin://plugin.video.vavooto/?name=DAZN+7
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZN8.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png" ,DAZN 8
+plugin://plugin.video.vavooto/?name=DAZN+8
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZN9.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png" ,DAZN 9
+plugin://plugin.video.vavooto/?name=DAZN+9
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZN10.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png" ,DAZN 10
+plugin://plugin.video.vavooto/?name=DAZN+10
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZN11.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png" ,DAZN 11
+plugin://plugin.video.vavooto/?name=DAZN+11
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZN12.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png" ,DAZN 12
+plugin://plugin.video.vavooto/?name=DAZN+12
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZN13.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png" ,DAZN 13
+plugin://plugin.video.vavooto/?name=DAZN+13
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZN14.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png" ,DAZN 14
+plugin://plugin.video.vavooto/?name=DAZN+14
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZN15.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png" ,DAZN 15
+plugin://plugin.video.vavooto/?name=DAZN+15
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZN16.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png" ,DAZN 16
+plugin://plugin.video.vavooto/?name=DAZN+16
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZN17.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png" ,DAZN 17
+plugin://plugin.video.vavooto/?name=DAZN+17
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZN18.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/768px-DAZN_Logo_Master.svg.png" ,DAZN 18
+plugin://plugin.video.vavooto/?name=DAZN+18
+#EXTINF:-1 group-title="vavoo" tvg-id="DAZNFast.de" tvg-logo="https://kodi-unlimited-support.de/iptv/picons/daznfast.png" ,DAZN FAST+
+plugin://plugin.video.vavooto/?name=DAZN+FAST%2B
+
+#EXTINF:-1 group-title="vavoo" tvg-id="DE: eSPORTS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Esports1_ox2_W1000xh0.png" ,eSports 1
+plugin://plugin.video.vavooto/?name=ESPORTS+1
