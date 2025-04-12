@@ -191,7 +191,7 @@ https://joaquinito02.es/vavoo/2091375723.m3u8
 https://joaquinito02.es/vavoo/3084650651.m3u8
 #EXTINF:-1 group-title="Frei Emfangbar" tvg-id="76686" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/512px-Discovery_Channel_-_Logo_2019.svg.png" ,Discovery
 https://izle.canlitvapp.com/disco/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="76800" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Geo_Television_Logo_2014.svg/200px-Geo_Television_Logo_2014.svg.png" ,Geo HD
+#EXTINF:-1 group-title="Germany"  tvg-id="76800" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Geo_Television_Logo_2014.svg/200px-Geo_Television_Logo_2014.svg.png" ,Geo HD
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 #KODIPROP:http-user-agent=VAVOO/1.0
