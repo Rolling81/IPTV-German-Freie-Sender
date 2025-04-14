@@ -3268,7 +3268,7 @@ https://joaquinito02.es/vavoo/2309304070.m3u8
 https://joaquinito02.es/vavoo/1860571224.m3u8
 #EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/DE-NEWS-.png" group-title="DE DEUTSCHLAND",++++Deutschland++++
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=632&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Das-Erste-HD.png" group-title="DE DEUTSCHLAND",DE: Das Erste HD
+#EXTINF:-1 tvg-id="https://epg.pw/last/76674.html?lang=de" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Das-Erste-HD.png" group-title="DE DEUTSCHLAND",DE: Das Erste HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=593&extension=ts
 #EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Das-Erste-HD.png" group-title="DE DEUTSCHLAND",DE: Das Erste HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=594&extension=ts
