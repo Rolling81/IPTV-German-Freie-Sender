@@ -1,4 +1,4 @@
-#EXTM3U  tvg-shift="-8" tvg-url="https://epg.pw/xmltv/epg_DE.xml"
+#EXTM3U  tvg-url="https://epg.pw/xmltv/epg_DE.xml"
 #EXTINF:-1 group-title="Frei Emfangbar" tvg-id="76674" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ARD_logo.png" ,Das Erste
 https://strm.hdtvizlecanli.com/live/ard1.m3u8
 #EXTINF:-1 group-title="Frei Emfangbar" tvg-id="76627" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/640px-ZDF_logo.svg.png" ,ZDF
