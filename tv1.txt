@@ -3269,6 +3269,7 @@ https://joaquinito02.es/vavoo/1860571224.m3u8
 
 
 
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/DE-NEWS-.png" group-title="DE DEUTSCHLAND",++++Deutschland++++
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=632&extension=ts
 #EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Das-Erste-HD.png" group-title="DE DEUTSCHLAND",DE: Das Erste HD
@@ -3470,4 +3471,11 @@ http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=36375&extension
 #EXTINF:-1 tvg-logo="http://platinumxmedia.xyz:8080/images/94373f7e4763d58a0a74c03860a41d52.png" group-title="DE NEWS - INFORMATION",DE: Der Aktionär TV
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=41312&extension=ts
 #EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/TAGESSCHAU-24-HD.png" group-title="DE NEWS - INFORMATION",DE: Tagesschau 24 HD
-http://34mix.com:8080/p
+http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=840&extension=ts
+#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Phoenix-HD.png" group-title="DE NEWS - INFORMATION",DE: Phoenix HD
+
+
+
+
+
+
