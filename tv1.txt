@@ -4148,187 +4148,187 @@ http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=21681&extension
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=21680&extension=ts
 #EXTINF:-1 tvg-logo="https://waidwerk.tv/wp-content/uploads/2018/07/waidwerk-logo.png" group-title="DE DOKUMENTAR",DE: Waidwerk HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=41231&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/875_sky_logo_sky-nature-hd_tvguide.png" group-title="DE DOKUMENTAR",DE: Sky Nature HD
+#EXTINF:-1 tvg-id="10640" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/875_sky_logo_sky-nature-hd_tvguide.png" group-title="DE DOKUMENTAR",DE: Sky Nature HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=27537&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/875_sky_logo_sky-nature-hd_tvguide.png" group-title="DE DOKUMENTAR",DE: Sky Nature HD+
+#EXTINF:-1 tvg-id="10640" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/875_sky_logo_sky-nature-hd_tvguide.png" group-title="DE DOKUMENTAR",DE: Sky Nature HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=27536&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/876_sky_logo_sky-cinema-documentaries-hd_tvguide.png" group-title="DE DOKUMENTAR",DE: Sky Documentaries HD
+#EXTINF:-1 tvg-id="10620" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/876_sky_logo_sky-cinema-documentaries-hd_tvguide.png" group-title="DE DOKUMENTAR",DE: Sky Documentaries HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=27539&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/876_sky_logo_sky-cinema-documentaries-hd_tvguide.png" group-title="DE DOKUMENTAR",DE: Sky Documentaries HD+
+#EXTINF:-1 tvg-id="10620" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/876_sky_logo_sky-cinema-documentaries-hd_tvguide.png" group-title="DE DOKUMENTAR",DE: Sky Documentaries HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=27538&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Geo-Tv.png" group-title="DE DOKUMENTAR",DE: Geo HD
+#EXTINF:-1 tvg-id="76800" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Geo-Tv.png" group-title="DE DOKUMENTAR",DE: Geo HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=27540&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/86_sky_logo_historyhd_b.png" group-title="DE DOKUMENTAR",DE: History Channel HD
+#EXTINF:-1 tvg-id="76634" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/86_sky_logo_historyhd_b.png" group-title="DE DOKUMENTAR",DE: History Channel HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=822&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/86_sky_logo_historyhd_b.png" group-title="DE DOKUMENTAR",DE: History Channel HD+
+#EXTINF:-1 tvg-id="76634" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/86_sky_logo_historyhd_b.png" group-title="DE DOKUMENTAR",DE: History Channel HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=823&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Discovery-Channel-HD.png" group-title="DE DOKUMENTAR",DE: Discovery Channel HD
+#EXTINF:-1 tvg-id="76686" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Discovery-Channel-HD.png" group-title="DE DOKUMENTAR",DE: Discovery Channel HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=824&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Discovery-Channel-HD.png" group-title="DE DOKUMENTAR",DE: Discovery Channel HD+
+#EXTINF:-1 tvg-id="76686" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Discovery-Channel-HD.png" group-title="DE DOKUMENTAR",DE: Discovery Channel HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=825&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/81_sky_logo_natgeochannelhd_b1.png" group-title="DE DOKUMENTAR",DE: Nat Geo HD
+#EXTINF:-1 tvg-id="76628" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/81_sky_logo_natgeochannelhd_b1.png" group-title="DE DOKUMENTAR",DE: Nat Geo HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=826&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/81_sky_logo_natgeochannelhd_b1.png" group-title="DE DOKUMENTAR",DE: Nat Geo HD+
+#EXTINF:-1 tvg-id="76628" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/81_sky_logo_natgeochannelhd_b1.png" group-title="DE DOKUMENTAR",DE: Nat Geo HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=827&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/88_sky_logo_natgeowildhd_b1.png" group-title="DE DOKUMENTAR",DE: Nat Geo Wild HD
+#EXTINF:-1 tvg-id="76783" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/88_sky_logo_natgeowildhd_b1.png" group-title="DE DOKUMENTAR",DE: Nat Geo Wild HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=828&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/88_sky_logo_natgeowildhd_b1.png" group-title="DE DOKUMENTAR",DE: Nat Geo Wild HD+
+#EXTINF:-1 tvg-id="76783" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/88_sky_logo_natgeowildhd_b1.png" group-title="DE DOKUMENTAR",DE: Nat Geo Wild HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=829&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Animal-Planet-HD.png" group-title="DE DOKUMENTAR",DE: Animal Planet HD
+#EXTINF:-1 tvg-id="76759" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Animal-Planet-HD.png" group-title="DE DOKUMENTAR",DE: Animal Planet HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=830&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Animal-Planet-HD.png" group-title="DE DOKUMENTAR",DE: Animal Planet HD+
+#EXTINF:-1 tvg-id="76759" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Animal-Planet-HD.png" group-title="DE DOKUMENTAR",DE: Animal Planet HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=831&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Kabel-1-Doku-HD.png" group-title="DE DOKUMENTAR",DE: Kabel 1 Doku HD
+#EXTINF:-1 tvg-id="76715" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Kabel-1-Doku-HD.png" group-title="DE DOKUMENTAR",DE: Kabel 1 Doku HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=609&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Kabel-1-Doku-HD.png" group-title="DE DOKUMENTAR",DE: Kabel Eins Docu HD
+#EXTINF:-1 tvg-id="76715" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Kabel-1-Doku-HD.png" group-title="DE DOKUMENTAR",DE: Kabel Eins Docu HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=832&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/N24-Doku.png" group-title="DE DOKUMENTAR",DE: N24 Doku HD
+#EXTINF:-1 tvg-id="76636" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/N24-Doku.png" group-title="DE DOKUMENTAR",DE: N24 Doku HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=9583&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/crime.png" group-title="DE DOKUMENTAR",DE: Crime + İnvestigation HD
+#EXTINF:-1 tvg-id="76667" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/crime.png" group-title="DE DOKUMENTAR",DE: Crime + İnvestigation HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=9584&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/welters.png" group-title="DE DOKUMENTAR",DE: Welt Der Wunder
+#EXTINF:-1 tvg-id="76625" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/welters.png" group-title="DE DOKUMENTAR",DE: Welt Der Wunder
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=9585&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/388_sky_logo_spiegelgeschichtehd_b.png" group-title="DE DOKUMENTAR",DE: Spiegel Geschichte HD
+#EXTINF:-1 tvg-id="76714" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/388_sky_logo_spiegelgeschichtehd_b.png" group-title="DE DOKUMENTAR",DE: Spiegel Geschichte HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=833&extension=ts
 #EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Spiegel-TV-Wissen-HD.png" group-title="DE DOKUMENTAR",DE: Spiegel Wissen HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=834&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/TLC-HD.png" group-title="DE DOKUMENTAR",DE: Tlc HD
+#EXTINF:-1 tvg-id="76699" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/TLC-HD.png" group-title="DE DOKUMENTAR",DE: Tlc HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=837&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="DE DOKUMENTAR",DE: BonGusto HD
+#EXTINF:-1 tvg-id="76746" tvg-logo="" group-title="DE DOKUMENTAR",DE: BonGusto HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=44307&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/bergblick.png" group-title="DE DOKUMENTAR",DE: Bergblick HD
+#EXTINF:-1 tvg-id="76688" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/bergblick.png" group-title="DE DOKUMENTAR",DE: Bergblick HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=838&extension=ts
 #EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/primevideo.png" group-title="DE SPORT",DE: Amazon Prime Sport HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=25683&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/659_sky_logo_dazn1-hd_tvguide1.png" group-title="DE SPORT",DE: Dazn 1 Bar HD
+#EXTINF:-1 tvg-id="212828" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/659_sky_logo_dazn1-hd_tvguide1.png" group-title="DE SPORT",DE: Dazn 1 Bar HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=652&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/659_sky_logo_dazn1-hd_tvguide1.png" group-title="DE SPORT",DE: Dazn 1 Bar HD+
+#EXTINF:-1 tvg-id="212828" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/659_sky_logo_dazn1-hd_tvguide1.png" group-title="DE SPORT",DE: Dazn 1 Bar HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=653&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/900_sky_logo_dazn2-hd_tvguide1.png" group-title="DE SPORT",DE: Dazn 2 Bar HD
+#EXTINF:-1 tvg-id="212840" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/900_sky_logo_dazn2-hd_tvguide1.png" group-title="DE SPORT",DE: Dazn 2 Bar HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=654&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/900_sky_logo_dazn2-hd_tvguide1.png" group-title="DE SPORT",DE: Dazn 2 Bar HD+
+#EXTINF:-1 tvg-id="212840" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/900_sky_logo_dazn2-hd_tvguide1.png" group-title="DE SPORT",DE: Dazn 2 Bar HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=655&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/596_sky_logo_eurosporthd_w.png" group-title="DE SPORT",DE: EuroSport 1 HD
+#EXTINF:-1 tvg-id="76619" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/596_sky_logo_eurosporthd_w.png" group-title="DE SPORT",DE: EuroSport 1 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=656&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/161_sky_logo_eurosport2hd.png" group-title="DE SPORT",DE: EuroSport 2 HD
+#EXTINF:-1 tvg-id="76744" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/161_sky_logo_eurosport2hd.png" group-title="DE SPORT",DE: EuroSport 2 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=657&extension=ts
 #EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/cCPgCY.img.0.128.png" group-title="DE SPORT",DE: Blue Sport 1 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=35063&extension=ts
 #EXTINF:-1 tvg-logo="https://www.upc.ch/content/dam/www-upc-ch/img/logos/channels/pC39OO.img.0.128.png" group-title="DE SPORT",DE: Blue Sport 2 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=35064&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Sport-1-HD.png" group-title="DE SPORT",DE: Sport1 HD
+#EXTINF:-1 tvg-id="76659" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Sport-1-HD.png" group-title="DE SPORT",DE: Sport1 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=680&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Sport-1-HD.png" group-title="DE SPORT",DE: Sport1 HD Hvec
+#EXTINF:-1 tvg-id="76659" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Sport-1-HD.png" group-title="DE SPORT",DE: Sport1 HD Hvec
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=19477&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-News.png" group-title="DE SPORT",DE: Sky Sport News HD
+#EXTINF:-1 tvg-id="76733" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-News.png" group-title="DE SPORT",DE: Sky Sport News HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=659&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-top-event.png" group-title="DE SPORT",DE: Sky Sport Top Event HD
+#EXTINF:-1 tvg-id="10675" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-top-event.png" group-title="DE SPORT",DE: Sky Sport Top Event HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=40930&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-top-event.png" group-title="DE SPORT",DE: Sky Sport Top Event HD+
+#EXTINF:-1 tvg-id="10675" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-top-event.png" group-title="DE SPORT",DE: Sky Sport Top Event HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=40929&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-F1.png" group-title="DE SPORT",DE: Sky Sport F1 HD
+#EXTINF:-1 tvg-id="10781" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-F1.png" group-title="DE SPORT",DE: Sky Sport F1 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=21999&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-F1.png" group-title="DE SPORT",DE: Sky Sport F1 HD+
+#EXTINF:-1 tvg-id="10781" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-F1.png" group-title="DE SPORT",DE: Sky Sport F1 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=22000&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-pl.png" group-title="DE SPORT",DE: Sky Sport Premier League HD
+#EXTINF:-1 tvg-id="10880" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-pl.png" group-title="DE SPORT",DE: Sky Sport Premier League HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=35045&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-pl.png" group-title="DE SPORT",DE: Sky Sport Premier League HD+
+#EXTINF:-1 tvg-id="10880" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-pl.png" group-title="DE SPORT",DE: Sky Sport Premier League HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=35044&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-mix.png" group-title="DE SPORT",DE: Sky Sport Mix HD
+#EXTINF:-1 tvg-id="10785" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-mix.png" group-title="DE SPORT",DE: Sky Sport Mix HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=40928&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-mix.png" group-title="DE SPORT",DE: Sky Sport Mix HD+
+#EXTINF:-1 tvg-id="10785" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-mix.png" group-title="DE SPORT",DE: Sky Sport Mix HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=40927&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-tennis.png" group-title="DE SPORT",DE: Sky Sport Tennis HD
+#EXTINF:-1 tvg-id="10634" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-tennis.png" group-title="DE SPORT",DE: Sky Sport Tennis HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=40932&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-tennis.png" group-title="DE SPORT",DE: Sky Sport Tennis HD+
+#EXTINF:-1 tvg-id="10634" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-tennis.png" group-title="DE SPORT",DE: Sky Sport Tennis HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=40931&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-golf.png" group-title="DE SPORT",DE: Sky Sport Golf HD
+#EXTINF:-1 tvg-id="10645" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-golf.png" group-title="DE SPORT",DE: Sky Sport Golf HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=40926&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-golf.png" group-title="DE SPORT",DE: Sky Sport Golf HD+
+#EXTINF:-1 tvg-id="10645" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_sky-sport-golf.png" group-title="DE SPORT",DE: Sky Sport Golf HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=40925&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Auto-Motor-Sport-Channel.png" group-title="DE SPORT",DE: Auto Motor Sport Channel HD
+#EXTINF:-1 tvg-id="76719" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Auto-Motor-Sport-Channel.png" group-title="DE SPORT",DE: Auto Motor Sport Channel HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=15472&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/eSports-1.png" group-title="DE SPORT",DE: eSports 1 HD
+#EXTINF:-1 tvg-id="76707" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/eSports-1.png" group-title="DE SPORT",DE: eSports 1 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=15473&extension=ts
 #EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/www.png" group-title="DE SPORT",DE: Wwe HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=15474&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/sportdigital.png" group-title="DE SPORT",DE: Sport Digital Fusball HD
+#EXTINF:-1 tvg-id="76705" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/sportdigital.png" group-title="DE SPORT",DE: Sport Digital Fusball HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=703&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Motorvision-HD.png" group-title="DE SPORT",DE: Motorvision TV HD
+#EXTINF:-1 tvg-id="76630" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Motorvision-HD.png" group-title="DE SPORT",DE: Motorvision TV HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=700&extension=ts
 #EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/225-2256876_edge-sport-logo-png-png-download-edge-sport.png" group-title="DE SPORT",DE: EDGEsport HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=40962&extension=ts
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/1d441f6e7ef3258f619e4b9f800ddba7.png" group-title="DE SPORT",DE: More Than Sports Tv
+#EXTINF:-1 tvg-id="76765" tvg-logo="http://xplatinmedia.com:8080/images/1d441f6e7ef3258f619e4b9f800ddba7.png" group-title="DE SPORT",DE: More Than Sports Tv
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=37147&extension=ts
 #EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/Red-Bull-TV-logo.png" group-title="DE SPORT",DE: Red Bull Tv
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=37148&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/indir.png" group-title="DE SPORT",DE: Servus TV Motorsport
+#EXTINF:-1 tvg-id="76626" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/indir.png" group-title="DE SPORT",DE: Servus TV Motorsport
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=37149&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-1.png" group-title="DE SPORT",DE: Sky Bundesliga 1 HD
+#EXTINF:-1 tvg-id="420148" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-1.png" group-title="DE SPORT",DE: Sky Bundesliga 1 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=660&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-1.png" group-title="DE SPORT",DE: Sky Bundesliga 1 HD+
+#EXTINF:-1 tvg-id="420148" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-1.png" group-title="DE SPORT",DE: Sky Bundesliga 1 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=661&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-1.png" group-title="DE SPORT",DE: Sky Bundesliga 1 Ⓗ②⑥⑤
+#EXTINF:-1 tvg-id="420148" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-1.png" group-title="DE SPORT",DE: Sky Bundesliga 1 Ⓗ②⑥⑤
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=16463&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-2.png" group-title="DE SPORT",DE: Sky Bundesliga 2 HD
+#EXTINF:-1 tvg-id="212816" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-2.png" group-title="DE SPORT",DE: Sky Bundesliga 2 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=662&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-2.png" group-title="DE SPORT",DE: Sky Bundesliga 2 HD+
+#EXTINF:-1 tvg-id="212816" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-2.png" group-title="DE SPORT",DE: Sky Bundesliga 2 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=663&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-3.png" group-title="DE SPORT",DE: Sky Bundesliga 3 HD
+#EXTINF:-1 tvg-id="212845" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-3.png" group-title="DE SPORT",DE: Sky Bundesliga 3 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=664&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-3.png" group-title="DE SPORT",DE: Sky Bundesliga 3 HD+
+#EXTINF:-1 tvg-id="212845" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-3.png" group-title="DE SPORT",DE: Sky Bundesliga 3 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=665&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-4.png" group-title="DE SPORT",DE: Sky Bundesliga 4 HD
+#EXTINF:-1 tvg-id="405757" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-4.png" group-title="DE SPORT",DE: Sky Bundesliga 4 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=666&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-4.png" group-title="DE SPORT",DE: Sky Bundesliga 4 HD+
+#EXTINF:-1 tvg-id="405757" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-4.png" group-title="DE SPORT",DE: Sky Bundesliga 4 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=667&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-5.png" group-title="DE SPORT",DE: Sky Bundesliga 5 HD
+#EXTINF:-1 tvg-id="405384" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-5.png" group-title="DE SPORT",DE: Sky Bundesliga 5 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=668&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-5.png" group-title="DE SPORT",DE: Sky Bundesliga 5 HD+
+#EXTINF:-1 tvg-id="405384" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-5.png" group-title="DE SPORT",DE: Sky Bundesliga 5 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=669&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-6.png" group-title="DE SPORT",DE: Sky Bundesliga 6 HD
+#EXTINF:-1 tvg-id="409473" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-6.png" group-title="DE SPORT",DE: Sky Bundesliga 6 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=670&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-6.png" group-title="DE SPORT",DE: Sky Bundesliga 6 HD+
+#EXTINF:-1 tvg-id="409473" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-6.png" group-title="DE SPORT",DE: Sky Bundesliga 6 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=671&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-7.png" group-title="DE SPORT",DE: Sky Bundesliga 7 HD
+#EXTINF:-1 tvg-id="212825" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-7.png" group-title="DE SPORT",DE: Sky Bundesliga 7 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=672&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-7.png" group-title="DE SPORT",DE: Sky Bundesliga 7 HD+
+#EXTINF:-1 tvg-id="212825" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-7.png" group-title="DE SPORT",DE: Sky Bundesliga 7 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=673&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-8.png" group-title="DE SPORT",DE: Sky Bundesliga 8 HD
+#EXTINF:-1 tvg-id="212822" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-8.png" group-title="DE SPORT",DE: Sky Bundesliga 8 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=674&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-8.png" group-title="DE SPORT",DE: Sky Bundesliga 8 HD+
+#EXTINF:-1 tvg-id="212822" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-8.png" group-title="DE SPORT",DE: Sky Bundesliga 8 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=675&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-9.png" group-title="DE SPORT",DE: Sky Bundesliga 9 HD
+#EXTINF:-1 tvg-id="212814" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-9.png" group-title="DE SPORT",DE: Sky Bundesliga 9 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=676&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-9.png" group-title="DE SPORT",DE: Sky Bundesliga 9 HD+
+#EXTINF:-1 tvg-id="212814" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-9.png" group-title="DE SPORT",DE: Sky Bundesliga 9 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=677&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-10.png" group-title="DE SPORT",DE: Sky Bundesliga 10 HD
+#EXTINF:-1 tvg-id="212817" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-10.png" group-title="DE SPORT",DE: Sky Bundesliga 10 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=678&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-10.png" group-title="DE SPORT",DE: Sky Bundesliga 10 HD+
+#EXTINF:-1 tvg-id="212817" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-10.png" group-title="DE SPORT",DE: Sky Bundesliga 10 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=679&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-1.png" group-title="DE SPORT",DE: Sky Sport 1 HD
+#EXTINF:-1 tvg-id="401577" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-1.png" group-title="DE SPORT",DE: Sky Sport 1 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=681&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-1.png" group-title="DE SPORT",DE: Sky Sport 1 HD+
+#EXTINF:-1 tvg-id="401577" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-1.png" group-title="DE SPORT",DE: Sky Sport 1 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=682&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-2.png" group-title="DE SPORT",DE: Sky Sport 2 HD
+#EXTINF:-1 tvg-id="413822" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-2.png" group-title="DE SPORT",DE: Sky Sport 2 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=683&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-2.png" group-title="DE SPORT",DE: Sky Sport 2 HD+
+#EXTINF:-1 tvg-id="413822" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-2.png" group-title="DE SPORT",DE: Sky Sport 2 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=684&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-3.png" group-title="DE SPORT",DE: Sky Sport 3 HD
+#EXTINF:-1 tvg-id="401826" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-3.png" group-title="DE SPORT",DE: Sky Sport 3 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=685&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-4.png" group-title="DE SPORT",DE: Sky Sport 4 HD
+#EXTINF:-1 tvg-id="212838" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-4.png" group-title="DE SPORT",DE: Sky Sport 4 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=686&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-5.png" group-title="DE SPORT",DE: Sky Sport 5 HD
+#EXTINF:-1 tvg-id="212824" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-5.png" group-title="DE SPORT",DE: Sky Sport 5 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=687&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-6.png" group-title="DE SPORT",DE: Sky Sport 6 HD
+#EXTINF:-1 tvg-id="407926" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-6.png" group-title="DE SPORT",DE: Sky Sport 6 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=688&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-7.png" group-title="DE SPORT",DE: Sky Sport 7 HD
+#EXTINF:-1 tvg-id="212820" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-7.png" group-title="DE SPORT",DE: Sky Sport 7 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=689&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-8.png" group-title="DE SPORT",DE: Sky Sport 8 HD
+#EXTINF:-1 tvg-id="212818" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-8.png" group-title="DE SPORT",DE: Sky Sport 8 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=690&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-9.png" group-title="DE SPORT",DE: Sky Sport 9 HD
+#EXTINF:-1 tvg-id="197536" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-9.png" group-title="DE SPORT",DE: Sky Sport 9 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=691&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-10.png" group-title="DE SPORT",DE: Sky Sport 10 HD
+#EXTINF:-1 tvg-id="212831" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-10.png" group-title="DE SPORT",DE: Sky Sport 10 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=692&extension=ts
 #EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/primevideo.png" group-title="DE SPORT",DE: Amazon Prime 1 HD [Live-Event]
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=43227&extension=ts
@@ -4346,11 +4346,11 @@ http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=43222&extension
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=43221&extension=ts
 #EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/primevideo.png" group-title="DE SPORT",DE: Amazon Prime 8 HD [Live-Event]
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=43220&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="DE DAZN & RTL+ SPORT",++++DAZN GERMANY++++
+#EXTINF:-1 tvg-id="76632" tvg-logo="" group-title="DE DAZN & RTL+ SPORT",++++DAZN GERMANY++++
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=28891&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/659_sky_logo_dazn1-hd_tvguide1.png" group-title="DE DAZN & RTL+ SPORT",DE: Dazn Sport 1 HD
+#EXTINF:-1 tvg-id="212828" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/659_sky_logo_dazn1-hd_tvguide1.png" group-title="DE DAZN & RTL+ SPORT",DE: Dazn Sport 1 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=41236&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/900_sky_logo_dazn2-hd_tvguide1.png" group-title="DE DAZN & RTL+ SPORT",DE: Dazn Sport 2 HD
+#EXTINF:-1 tvg-id="212840" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/900_sky_logo_dazn2-hd_tvguide1.png" group-title="DE DAZN & RTL+ SPORT",DE: Dazn Sport 2 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=41237&extension=ts
 #EXTINF:-1 tvg-logo="https://www.diaicon.xyz/wp-content/uploads/2020/04/Eurosport-1-HD.png" group-title="DE DAZN & RTL+ SPORT",DE: Dazn Eurosport 1 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=41238&extension=ts
@@ -4556,13 +4556,13 @@ http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=103268&extensio
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=103269&extension=ts
 #EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/DE-NEWS-.png" group-title="DE MUSIK",++++DE Musik++++
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=9603&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/MTV.png" group-title="DE MUSIK",DE: Mtv
+#EXTINF:-1 tvg-id="76780" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/MTV.png" group-title="DE MUSIK",DE: Mtv
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=9594&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/MTV.png" group-title="DE MUSIK",DE: Mtv Music 24
+#EXTINF:-1 tvg-id="76777" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/MTV.png" group-title="DE MUSIK",DE: Mtv Music 24
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=9596&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Delux-Music-HD.png" group-title="DE MUSIK",DE: Delux Music HD
+#EXTINF:-1 tvg-id="76809" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Delux-Music-HD.png" group-title="DE MUSIK",DE: Delux Music HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=9600&extension=ts
-#EXTINF:-1 tvg-logo="http://platinumxmedia.xyz:8080/images/cef99d6cb40193f98ff068653b56ce10.png" group-title="DE MUSIK",DE: Deutsches Musik Fernsehen HD
+#EXTINF:-1 tvg-id="76665" tvg-logo="http://platinumxmedia.xyz:8080/images/cef99d6cb40193f98ff068653b56ce10.png" group-title="DE MUSIK",DE: Deutsches Musik Fernsehen HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=41322&extension=ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/folx-de.png" group-title="DE MUSIK",DE: Folx Musix Television
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=41317&extension=ts
@@ -4572,11 +4572,11 @@ http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=41320&extension
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=41316&extension=ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/one-1-music-tv-de.png" group-title="DE MUSIK",DE: One Music Television
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=41319&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="DE MUSIK",DE: Schlager Deluxe
+#EXTINF:-1 tvg-id="76803"  tvg-logo="" group-title="DE MUSIK",DE: Schlager Deluxe
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=41321&extension=ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zwei-2-music-tv-de.png" group-title="DE MUSIK",DE: Zwei Music Television
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=41318&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/452_sky_logo_jukebox-1.png" group-title="DE MUSIK",DE: Jukebox Tv
+#EXTINF:-1 tvg-id="76615" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/452_sky_logo_jukebox-1.png" group-title="DE MUSIK",DE: Jukebox Tv
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=9601&extension=ts
 #EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/kronehit.png" group-title="DE MUSIK",DE: Kronehit Tv HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=15489&extension=ts
@@ -4586,123 +4586,123 @@ http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=15491&extension
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=9602&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="AUSTRIA",++++Austria Channels++++
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=43781&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/ORF-1-HD-AUSTRIA.png" group-title="AUSTRIA",AT: Orf 1 HD
+#EXTINF:-1 tvg-id="76706" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/ORF-1-HD-AUSTRIA.png" group-title="AUSTRIA",AT: Orf 1 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=629&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/ORF-1-HD-AUSTRIA.png" group-title="AUSTRIA",AT: Orf 1 HD+
+#EXTINF:-1 tvg-id="76706" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/ORF-1-HD-AUSTRIA.png" group-title="AUSTRIA",AT: Orf 1 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=14950&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/ORF-2-HD-AUSTRIA.png" group-title="AUSTRIA",AT: Orf 2 HD
+#EXTINF:-1 tvg-id="76616" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/ORF-2-HD-AUSTRIA.png" group-title="AUSTRIA",AT: Orf 2 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=630&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/ORF-3-HD-AUSTRIA.png" group-title="AUSTRIA",AT: Orf 3 HD
+#EXTINF:-1 tvg-id="76734" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/ORF-3-HD-AUSTRIA.png" group-title="AUSTRIA",AT: Orf 3 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=631&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="AUSTRIA",AT: Orf 2 Wien HD
+#EXTINF:-1 tvg-id="76616" tvg-logo="" group-title="AUSTRIA",AT: Orf 2 Wien HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=33141&extension=ts
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/7fec306d1e665bc9c748b5d2b99a6e97.png" group-title="AUSTRIA",AT: Orf 2 Voralberg HD
+#EXTINF:-1 tvg-id="76616" tvg-logo="http://xplatinmedia.com:8080/images/7fec306d1e665bc9c748b5d2b99a6e97.png" group-title="AUSTRIA",AT: Orf 2 Voralberg HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=33142&extension=ts
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/53c04118df112c13a8c34b38343b9c10.png" group-title="AUSTRIA",AT: Orf 2 Burgenland HD
+#EXTINF:-1 tvg-id="76616" tvg-logo="http://xplatinmedia.com:8080/images/53c04118df112c13a8c34b38343b9c10.png" group-title="AUSTRIA",AT: Orf 2 Burgenland HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=33143&extension=ts
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/9f53d83ec0691550f7d2507d57f4f5a2.png" group-title="AUSTRIA",AT: Orf 2 Kärnten HD
+#EXTINF:-1 tvg-id="76616" tvg-logo="http://xplatinmedia.com:8080/images/9f53d83ec0691550f7d2507d57f4f5a2.png" group-title="AUSTRIA",AT: Orf 2 Kärnten HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=33144&extension=ts
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/043c3d7e489c69b48737cc0c92d0f3a2.png" group-title="AUSTRIA",AT: Orf 2 Oberösterreich HD
+#EXTINF:-1 tvg-id="76616" tvg-logo="http://xplatinmedia.com:8080/images/043c3d7e489c69b48737cc0c92d0f3a2.png" group-title="AUSTRIA",AT: Orf 2 Oberösterreich HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=33145&extension=ts
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4daa3db355ef2b0e64b472968cb70f0d.png" group-title="AUSTRIA",AT: Orf 2 Steiermark HD
+#EXTINF:-1 tvg-id="76616" tvg-logo="http://xplatinmedia.com:8080/images/4daa3db355ef2b0e64b472968cb70f0d.png" group-title="AUSTRIA",AT: Orf 2 Steiermark HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=33146&extension=ts
-#EXTINF:-1 tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/orf2-T.png" group-title="AUSTRIA",AT: Orf 2 Tirol HD
+#EXTINF:-1 tvg-id="76616" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/orf2-T.png" group-title="AUSTRIA",AT: Orf 2 Tirol HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=33147&extension=ts
-#EXTINF:-1 tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/orf2-S.png" group-title="AUSTRIA",AT: Orf 2 Salzburg HD
+#EXTINF:-1 tvg-id="76616" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/orf2-S.png" group-title="AUSTRIA",AT: Orf 2 Salzburg HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=33148&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="AUSTRIA",AT: Atv  HD
+#EXTINF:-1 tvg-id="76810" tvg-logo="" group-title="AUSTRIA",AT: Atv  HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=31622&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="AUSTRIA",AT: Atv 2 HD
+#EXTINF:-1 tvg-id="76638" tvg-logo="" group-title="AUSTRIA",AT: Atv 2 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=31623&extension=ts
-#EXTINF:-1 tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/servus.png" group-title="AUSTRIA",AT: Servus Tv
+#EXTINF:-1 tvg-id="76626" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/servus.png" group-title="AUSTRIA",AT: Servus Tv
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=31624&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="AUSTRIA",AT: Puls 4 HD
+#EXTINF:-1 tvg-id="76732" tvg-logo="" group-title="AUSTRIA",AT: Puls 4 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=31625&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="AUSTRIA",AT: N24 Doku Tv
+#EXTINF:-1 tvg-id="76636" tvg-logo="" group-title="AUSTRIA",AT: N24 Doku Tv
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=31630&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="AUSTRIA",AT: Puls 24 HD
+#EXTINF:-1 tvg-id="401095" tvg-logo="" group-title="AUSTRIA",AT: Puls 24 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=31631&extension=ts
-#EXTINF:-1 tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/rtl.png" group-title="AUSTRIA",AT: Rtl 1 HD
+#EXTINF:-1 tvg-id="76740" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/rtl.png" group-title="AUSTRIA",AT: Rtl 1 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=31632&extension=ts
-#EXTINF:-1 tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/rtl_zwei.png" group-title="AUSTRIA",AT: Rtl 2 HD
+#EXTINF:-1 tvg-id="76755" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/rtl_zwei.png" group-title="AUSTRIA",AT: Rtl 2 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=31633&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="AUSTRIA",AT: Sat 1 Tv
+#EXTINF:-1 tvg-id="76740" tvg-logo="" group-title="AUSTRIA",AT: Sat 1 Tv
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=31634&extension=ts
-#EXTINF:-1 tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/oe24tv.png" group-title="AUSTRIA",AT: Oe24 Tv
+#EXTINF:-1 tvg-id="76694" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/oe24tv.png" group-title="AUSTRIA",AT: Oe24 Tv
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=31627&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="AUSTRIA",AT: R9 Tv
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=31628&extension=ts
-#EXTINF:-1 tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/vox.png" group-title="AUSTRIA",AT: Vox HD
+#EXTINF:-1 tvg-id="76704" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/vox.png" group-title="AUSTRIA",AT: Vox HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=31635&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="AUSTRIA",AT: Dmax HD
+#EXTINF:-1 tvg-id="76692" tvg-logo="" group-title="AUSTRIA",AT: Dmax HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=31636&extension=ts
-#EXTINF:-1 tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sixx.png" group-title="AUSTRIA",AT: Sixx HD
+#EXTINF:-1 tvg-id="76614" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/sixx.png" group-title="AUSTRIA",AT: Sixx HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=31637&extension=ts
 #EXTINF:-1 tvg-logo="" group-title="AUSTRIA",AT: Krone Hit Tv HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=31638&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="AUSTRIA",AT: Orf Sport Plus HD
+#EXTINF:-1 tvg-id="76756" tvg-logo="" group-title="AUSTRIA",AT: Orf Sport Plus HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=31640&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria1.png" group-title="AUSTRIA",AT: Sky Sport Austria 1 HD
+#EXTINF:-1 tvg-id="197536" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria1.png" group-title="AUSTRIA",AT: Sky Sport Austria 1 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=28433&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria1.png" group-title="AUSTRIA",AT: Sky Sport Austria 1 HD+
+#EXTINF:-1 tvg-id="197536" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria1.png" group-title="AUSTRIA",AT: Sky Sport Austria 1 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=28432&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria2.png" group-title="AUSTRIA",AT: Sky Sport Austria 2 HD
+#EXTINF:-1 tvg-id="419780" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria2.png" group-title="AUSTRIA",AT: Sky Sport Austria 2 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=28435&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria2.png" group-title="AUSTRIA",AT: Sky Sport Austria 2 HD+
+#EXTINF:-1 tvg-id="419780" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria2.png" group-title="AUSTRIA",AT: Sky Sport Austria 2 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=28434&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria3.png" group-title="AUSTRIA",AT: Sky Sport Austria 3 HD
+#EXTINF:-1 tvg-id="421063" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria3.png" group-title="AUSTRIA",AT: Sky Sport Austria 3 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=28437&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria3.png" group-title="AUSTRIA",AT: Sky Sport Austria 3 HD+
+#EXTINF:-1 tvg-id="421063" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria3.png" group-title="AUSTRIA",AT: Sky Sport Austria 3 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=28436&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria4.png" group-title="AUSTRIA",AT: Sky Sport Austria 4 HD
+#EXTINF:-1 tvg-id="421396" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria4.png" group-title="AUSTRIA",AT: Sky Sport Austria 4 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=28439&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria4.png" group-title="AUSTRIA",AT: Sky Sport Austria 4 HD+
+#EXTINF:-1 tvg-id="421396" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria4.png" group-title="AUSTRIA",AT: Sky Sport Austria 4 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=28438&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria5.png" group-title="AUSTRIA",AT: Sky Sport Austria 5 HD
+#EXTINF:-1 tvg-id="421064" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria5.png" group-title="AUSTRIA",AT: Sky Sport Austria 5 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=28441&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria5.png" group-title="AUSTRIA",AT: Sky Sport Austria 5 HD+
+#EXTINF:-1 tvg-id="421064" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria5.png" group-title="AUSTRIA",AT: Sky Sport Austria 5 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=28440&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria6.png" group-title="AUSTRIA",AT: Sky Sport Austria 6 HD
+#EXTINF:-1 tvg-id="425223" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria6.png" group-title="AUSTRIA",AT: Sky Sport Austria 6 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=28443&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria6.png" group-title="AUSTRIA",AT: Sky Sport Austria 6 HD+
+#EXTINF:-1 tvg-id="425223" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria6.png" group-title="AUSTRIA",AT: Sky Sport Austria 6 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=28442&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria7.png" group-title="AUSTRIA",AT: Sky Sport Austria 7 HD
+#EXTINF:-1 tvg-id="425225" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria7.png" group-title="AUSTRIA",AT: Sky Sport Austria 7 HD
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=28445&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria7.png" group-title="AUSTRIA",AT: Sky Sport Austria 7 HD+
+#EXTINF:-1 tvg-id="425225" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2022/10/sky_logo_skysportaustria7.png" group-title="AUSTRIA",AT: Sky Sport Austria 7 HD+
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=28444&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Das-Erste-HD.png" group-title="DE (HEVC/4K/8K)",DE: Das Erste Hevc
+#EXTINF:-1 tvg-id="76674" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Das-Erste-HD.png" group-title="DE (HEVC/4K/8K)",DE: Das Erste Hevc
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=34608&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/ZDF-HD.png" group-title="DE (HEVC/4K/8K)",DE: Zdf Hevc
+#EXTINF:-1 tvg-id="76627" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/ZDF-HD.png" group-title="DE (HEVC/4K/8K)",DE: Zdf Hevc
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=34609&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/PRO-7-HD.png" group-title="DE (HEVC/4K/8K)",DE: Pro 7 Hevc
+#EXTINF:-1 tvg-id="76762" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/PRO-7-HD.png" group-title="DE (HEVC/4K/8K)",DE: Pro 7 Hevc
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=34610&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/SAT-1-HD.png" group-title="DE (HEVC/4K/8K)",DE: Sat 1 Hevc
+#EXTINF:-1 tvg-id="76740" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/SAT-1-HD.png" group-title="DE (HEVC/4K/8K)",DE: Sat 1 Hevc
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=34611&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/RTL-HD.png" group-title="DE (HEVC/4K/8K)",DE: Rtl Hevc
+#EXTINF:-1 tvg-id="76740" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/RTL-HD.png" group-title="DE (HEVC/4K/8K)",DE: Rtl Hevc
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=34612&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/RTL-HD.png" group-title="DE (HEVC/4K/8K)",DE: Rtl Uhd
+#EXTINF:-1 tvg-id="76740" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/RTL-HD.png" group-title="DE (HEVC/4K/8K)",DE: Rtl Uhd
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=34613&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/RTL-2.png" group-title="DE (HEVC/4K/8K)",DE: Rtl 2 Hevc
+#EXTINF:-1 tvg-id="76755" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/RTL-2.png" group-title="DE (HEVC/4K/8K)",DE: Rtl 2 Hevc
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=34614&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Pro-7-MAXX-FHD.png" group-title="DE (HEVC/4K/8K)",DE: Pro 7 Maxx Hevc
+#EXTINF:-1 tvg-id="76702" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Pro-7-MAXX-FHD.png" group-title="DE (HEVC/4K/8K)",DE: Pro 7 Maxx Hevc
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=34616&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/VOX-HD.png" group-title="DE (HEVC/4K/8K)",DE: Vox Hevc
+#EXTINF:-1 tvg-id="76704" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/VOX-HD.png" group-title="DE (HEVC/4K/8K)",DE: Vox Hevc
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=34615&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/SIXX-HD.png" group-title="DE (HEVC/4K/8K)",DE: Sixx Hevc
+#EXTINF:-1 tvg-id="76614" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/SIXX-HD.png" group-title="DE (HEVC/4K/8K)",DE: Sixx Hevc
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=34618&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/n-tv-HD.png" group-title="DE (HEVC/4K/8K)",DE: N-Tv Hevc
+#EXTINF:-1 tvg-id="76640" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/n-tv-HD.png" group-title="DE (HEVC/4K/8K)",DE: N-Tv Hevc
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=34617&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/659_sky_logo_dazn1-hd_tvguide1.png" group-title="DE (HEVC/4K/8K)",DE: Dazn 1 Bar Hevc
+#EXTINF:-1 tvg-id="212828" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/659_sky_logo_dazn1-hd_tvguide1.png" group-title="DE (HEVC/4K/8K)",DE: Dazn 1 Bar Hevc
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=34619&extension=ts
 #EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/900_sky_logo_dazn2-hd_tvguide1.png" group-title="DE (HEVC/4K/8K)",DE: Dazn 2 Bar Hevc
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=34620&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Sport-1-HD.png" group-title="DE (HEVC/4K/8K)",DE: Sport 1 Hevc
+#EXTINF:-1 tvg-id="76659" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2020/04/Sport-1-HD.png" group-title="DE (HEVC/4K/8K)",DE: Sport 1 Hevc
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=34621&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-News.png" group-title="DE (HEVC/4K/8K)",DE: Sky Sport News Hevc
+#EXTINF:-1 tvg-id="76733"	tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-News.png" group-title="DE (HEVC/4K/8K)",DE: Sky Sport News Hevc
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=34622&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-1.png" group-title="DE (HEVC/4K/8K)",DE: Sky Sport 1 Hevc
+#EXTINF:-1 tvg-id="401577" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-1.png" group-title="DE (HEVC/4K/8K)",DE: Sky Sport 1 Hevc
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=34623&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-2.png" group-title="DE (HEVC/4K/8K)",DE: Sky Sport 2 Hevc
+#EXTINF:-1 tvg-id="413822" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Sport-2.png" group-title="DE (HEVC/4K/8K)",DE: Sky Sport 2 Hevc
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=34624&extension=ts
-#EXTINF:-1 tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-1.png" group-title="DE (HEVC/4K/8K)",DE: Sky Sport Bundesliga 1 Hevc
+#EXTINF:-1 	tvg-id="420148" tvg-logo="http://www.diaicon.xyz/wp-content/uploads/2021/11/Sky-Bundesliga-1.png" group-title="DE (HEVC/4K/8K)",DE: Sky Sport Bundesliga 1 Hevc
 http://34mix.com:8080/play/live.php?mac=00:1A:79:48:2E:99&stream=34625&extension=ts
