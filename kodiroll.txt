@@ -1,5 +1,5 @@
 name="Mein Super Build"
-url="https://k8wgk4svbes3s89d.myfritz.net:46069/nas/filelink.lua?id=074a8505aa9d95de"
+url="https://k8wgk4svbes3s89d.myfritz.net:46069/nas/filelink.lua?id=074a8505aa9d95de&download=1"
 version="1.0.0"
 kodi="21.2"
 gui="http://dein-vorschaubild.jpg"
