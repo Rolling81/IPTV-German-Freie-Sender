@@ -1,5 +1,5 @@
 name="Mein Super Build"
-url="sftp://kodi:123meins@k8wgk4svbes3s89d.myfritz.net:22/Upload/projekt%20eigenes%20kodi/addons.zip"
+url=""
 version="1.0.0"
 kodi="21.2"
 gui="http://dein-vorschaubild.jpg"
