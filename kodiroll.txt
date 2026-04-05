@@ -1,8 +1,1 @@
-name="Mein Super Build"
-url=""
-version="1.0.0"
-kodi="21.2"
-gui="http://dein-vorschaubild.jpg"
-minor="http://"
-description="Hier beschreibst du dein Build kurz."
-http://k8wgk4svbes3s89d.myfritz.net/Upload/projekt%20eigenes%20kodi/addons.zip
+
